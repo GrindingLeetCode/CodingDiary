@@ -1,6 +1,6 @@
 '''
  Created on 8 Sep
- 94. Binary Tree Inorder Traversal
+ 112. Path Sum
 '''
 
 #I'm still learning about binary trees, so solution is quite similar to solution on "Discuss".
